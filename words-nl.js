@@ -1,4 +1,4 @@
-var words = [
+var WORD_LIST = [
 	"appel",
 	"aldus",
 	"afwas",
